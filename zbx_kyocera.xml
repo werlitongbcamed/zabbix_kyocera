@@ -4,30 +4,30 @@
     <date>2018-02-21T05:29:42Z</date>
     <groups>
         <group>
-            <name>Устройства Киосера v2</name>
+            <name>Kyocera Impressoras v2<s</name>
         </group>
     </groups>
     <templates>
         <template>
-            <template>KyoceraLiptonsV2</template>
-            <name>Принтеры Киосера v2</name>
+            <template>Kyocera Impressoras v2</template>
+            <name>Kyocera Impressoras v2<</name>
             <description/>
             <groups>
                 <group>
-                    <name>Устройства Киосера v2</name>
+                    <name>Kyocera Impressoras v2<</name>
                 </group>
             </groups>
             <applications>
                 <application>
-                    <name>Данные о принтере</name>
+                    <name>Dados sobre a impressora</name>
                 </application>
                 <application>
-                    <name>Счетчики</name>
+                    <name>Contadores</name>
                 </application>
             </applications>
             <items>
                 <item>
-                    <name>Отпечатано страниц А4</name>
+                    <name>Páginas A4 impressas</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -63,14 +63,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Счетчики</name>
+                            <name>Contadores</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Отпечатано страниц всего</name>
+                    <name>Total de páginas impressas</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -113,7 +113,7 @@
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Страниц откопировано</name>
+                    <name>Páginas copiadas</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -149,14 +149,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Счетчики</name>
+                            <name>Contadores</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Код ошибки</name>
+                    <name>Código de erro</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -192,14 +192,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Версия программного обеспеченгия</name>
+                    <name>Versão de software</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -235,7 +235,7 @@
                     <inventory_link>16</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -278,7 +278,7 @@
                     <inventory_link>12</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -321,14 +321,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Сколько бумаги помещается в лоток</name>
+                    <name>Quanto papel cabe na bandeja</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -364,14 +364,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Счетчики</name>
+                            <name>Contadores</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Отсканировано страниц</name>
+                    <name>Páginas digitalizadas</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -407,14 +407,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Счетчики</name>
+                            <name>Contadores</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Поддержка сканирования</name>
+                    <name>Suporte de digitalização</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -450,14 +450,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Всего отсканировано и копировано страниц</name>
+                    <name>Total de páginas digitalizadas e copiadas</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -500,7 +500,7 @@
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Серийный номер</name>
+                    <name>Número de série</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -536,14 +536,14 @@
                     <inventory_link>8</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Статус принтера</name>
+                    <name>Status da impressora</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -579,14 +579,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Модель картриджа</name>
+                    <name>Modelo de cartucho</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -622,14 +622,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Ресурс картриджа</name>
+                    <name>Vida do cartucho</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -665,14 +665,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Остаток тонера в картридже</name>
+                    <name>Toner de cartucho restante</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -708,14 +708,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Счетчики</name>
+                            <name>Contadores</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Время Uptime</name>
+                    <name>Tempo de operação</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>1</multiplier>
@@ -751,14 +751,14 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Счетчики</name>
+                            <name>Contadores</name>
                         </application>
                     </applications>
                     <valuemap/>
                     <logtimefmt/>
                 </item>
                 <item>
-                    <name>Расположение</name>
+                    <name>Localização</name>
                     <type>4</type>
                     <snmp_community>public</snmp_community>
                     <multiplier>0</multiplier>
@@ -794,7 +794,7 @@
                     <inventory_link>24</inventory_link>
                     <applications>
                         <application>
-                            <name>Данные о принтере</name>
+                            <name>Dados sobre a impressora</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -848,7 +848,7 @@
     <triggers>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=5</expression>
-            <name>Бумага застряла в принтере. Нужно вытащить бумагу</name>
+            <name>O papel está preso na impressora. Precisa retirar o papel</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -858,7 +858,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=12</expression>
-            <name>Замените тонер</name>
+            <name>Substitua o toner</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -868,7 +868,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=18</expression>
-            <name>Замените тонер</name>
+            <name>Substitua o toner</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -878,7 +878,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=4096</expression>
-            <name>Замените тонер</name>
+            <name>Substitua o toner</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -888,7 +888,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=06</expression>
-            <name>Замятие бумаги. Произошла ошибка.</name>
+            <name>Papel encravado. Um erro ocorreu.</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -898,7 +898,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=2</expression>
-            <name>Мало тонера, замените пожалуйста</name>
+            <name>Pouco toner, por favor substitua</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -908,7 +908,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=7</expression>
-            <name>Необходим сервис. Требуется внимание специалиста.</name>
+            <name>Serviço requerido. Atenção especializada é necessária.</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -918,7 +918,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=1</expression>
-            <name>Нет бумаги в принтере</name>
+            <name>Nenhum papel na impressora</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -928,7 +928,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:error.device.last()}=4</expression>
-            <name>Открыта дверца принтера</name>
+            <name>Porta da impressora abertaа</name>
             <url/>
             <status>0</status>
             <priority>1</priority>
@@ -938,7 +938,7 @@
         </trigger>
         <trigger>
             <expression>{KyoceraLiptonsV2:status.device.last()}=1</expression>
-            <name>Узел проявки не установлен или принтер требует внимания</name>
+            <name>Nenhuma unidade de desenvolvimento instalada ou impressora precisa de atenção</name>
             <url/>
             <status>1</status>
             <priority>4</priority>
